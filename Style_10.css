@@ -1,0 +1,27 @@
+h1{
+    border: 10px solid black;
+    margin: 500px;
+    justify-content: center;
+}
+#div1{
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    background-color: red;
+    border-radius: 50%;
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    background-color: orange;
+    border-radius: 50%;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    background-color: green;
+    border-radius: 50%;
+}
+

@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 150px;
+    border: 2px solid black;
+
+}
+
+#Container{
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: flex-start;
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    background-color: pink;
+    height: 200px;
+    flex-grow: initial;
+}
+
+#box3{
+    background-color: blueviolet;
+    height: 75px;
+}
+
+#box4{
+    background-color: blue;
+}
+
+#box5{
+    background-color:  skyblue;
+}

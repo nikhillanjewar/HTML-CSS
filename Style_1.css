@@ -1,0 +1,29 @@
+#nikhil{
+    color: blue;
+}
+#myclass{
+   color: purple;
+}
+
+h2{
+    color:red;
+}
+button{
+    color: navajowhite;
+    background-color: blue;
+}
+body{
+    /*--By default color--*/
+    background-color: red;
+
+    /*--RGB(Red, Green, Blue--*/
+
+    background-color: rgb(255, 180, 0);
+    background-color: #15ff09;
+
+    /*--by using coolors--*/
+    background-color: #1D2D44;
+}
+*{
+    color: aqua;
+}

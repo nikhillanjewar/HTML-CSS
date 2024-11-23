@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 30 px;
+    display: inline-block;
+}
+
+#box2{
+    /*--For not showing on display--*/
+    display: none;
+    /*--For hidding content--*/
+    visibility: hidden;
+}
